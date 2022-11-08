@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Propiedades del Contenedor*/
+
+.contenedor{
+    background-color: tomato;
+    margin: 20px;
+    display: flex;
+}
+
+/* Propiedades de los hijos*/
+
+.hijos{
+    width: 150px;
+    height: 150px;
+    background-color: wheat;
+    margin: 5px;
+}
+
